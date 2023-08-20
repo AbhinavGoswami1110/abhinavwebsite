@@ -156,12 +156,6 @@ h4 {
   transform: scale(1.05);
 }
 
-/*--------------------------------
- hero section style start 
- <!-- subscribe to thapa technical Channle plz 
- link:https://www.youtube.com/thapatechnical -->
-------------------------- */
-
 .section-hero {
   position: relative;
 }
@@ -255,11 +249,6 @@ h4 {
   margin: 0;
 }
 
-/*--------------------------------
-  media queries style start 
-  <!-- subscribe to thapa technical Channle plz 
- link:https://www.youtube.com/thapatechnical -->
-------------------------- */
 
 @media (max-width: 1250px) {
   .container {
